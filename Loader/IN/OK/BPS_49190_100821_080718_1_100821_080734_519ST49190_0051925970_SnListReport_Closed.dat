@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="SNReport.xsl"?>
+<File Created="2021-10-08 08:07:34.000" Version="0.0 ">
+<Machine MachineSN="519ST49190" MachineID="49190" Type="BPS C5">
+<Deposit DepositStatus="Closed" DepositStartDateTime="2021-10-08 08:07:18" DepositEndDateTime="2021-10-08 08:07:32" SegmentFlag="1" PayoutCount="0" DeclaredAmount="0" CustomerID="1" DepositID="0051925970" Currency="RUB" OpModeName="ЮР. ЛИЦА без ветхования" OperatorID="48" SNImageAvailability="2">
+<BN DenomId="1292" Denom="RUB200d" SNID="АА282845221" SNLength="11" tStart="2021-10-08 08:07:18.000" QualityID="ATM" OCID="" BNId="1455" SNImageID1="" SNImageID2="" />
+<BN DenomId="1292" Denom="RUB200d" SNID="АА275021823" SNLength="11" tStart="2021-10-08 08:07:18.000" QualityID="ATM" OCID="" BNId="1456" SNImageID1="" SNImageID2="" />
+<BN DenomId="1353" Denom="RUB500c" SNID="ЬК5833280" SNLength="9" tStart="2021-10-08 08:07:18.000" QualityID="ATM" OCID="" BNId="1457" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="ТГ9537338" SNLength="9" tStart="2021-10-08 08:07:18.000" QualityID="ATM" OCID="" BNId="1458" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="чч4701079" SNLength="9" tStart="2021-10-08 08:07:18.000" QualityID="ATM" OCID="" BNId="1459" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="ИЛ8086985" SNLength="9" tStart="2021-10-08 08:07:18.000" QualityID="ATM" OCID="" BNId="1460" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="БЬ2558744" SNLength="9" tStart="2021-10-08 08:07:18.000" QualityID="ATM" OCID="" BNId="1461" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="ЗМ3930841" SNLength="9" tStart="2021-10-08 08:07:18.000" QualityID="ATM" OCID="" BNId="1462" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="АБ5273490" SNLength="9" tStart="2021-10-08 08:07:18.000" QualityID="FIT" OCID="" BNId="1463" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="НЯ5094810" SNLength="9" tStart="2021-10-08 08:07:18.000" QualityID="ATM" OCID="" BNId="1464" SNImageID1="" SNImageID2="" />
+</Deposit>
+</Machine>
+</File>

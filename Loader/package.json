@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "esm": "^3.2.25",
+    "express": "^4.17.2",
+    "file-match": "^1.0.2",
+    "fs": "0.0.1-security",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.2.1",
+    "mssql": "^8.1.0",
+    "path": "^0.12.7",
+    "reflect-metadata": "^0.1.13",
+    "request": "^2.88.2",
+    "sql.js": "^1.6.2",
+    "tedious": "^14.3.0",
+    "typeorm": "^0.3.6",
+    "vue": "^3.2.30"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "@types/tedious": "^4.0.7"
+  }
+}

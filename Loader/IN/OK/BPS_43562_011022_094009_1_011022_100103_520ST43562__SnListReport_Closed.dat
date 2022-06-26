@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="SNReport.xsl"?>
+<File Created="2022-01-10 10:01:03.000" Version="0.0 ">
+<Machine MachineSN="520ST43562" MachineID="43562" Type="BPS C5">
+<Deposit DepositStatus="Closed" DepositStartDateTime="2022-01-10 09:40:09" DepositEndDateTime="2022-01-10 10:00:59" SegmentFlag="1" PayoutCount="0" DeclaredAmount="0" CustomerID="" DepositID="" Currency="USD" OpModeName="Сортировка по номиналам 1 стороной" OperatorID="1" SNImageAvailability="2">
+<BN DenomId="3623" Denom="USD100c" SNID="PF37894418F" SNLength="11" tStart="2022-01-10 09:58:31.000" QualityID="ATM" OCID="2" BNId="0" SNImageID1="" SNImageID2="" />
+<BN DenomId="3623" Denom="USD100c" SNID="PF37894417F" SNLength="11" tStart="2022-01-10 09:58:31.000" QualityID="ATM" OCID="2" BNId="1" SNImageID1="" SNImageID2="" />
+<BN DenomId="3623" Denom="USD100c" SNID="PF37894416F" SNLength="11" tStart="2022-01-10 09:58:31.000" QualityID="ATM" OCID="2" BNId="2" SNImageID1="" SNImageID2="" />
+</Deposit>
+</Machine>
+</File>

@@ -1,0 +1,36 @@
+{
+  "name": "typeorm-javascript-example",
+  "version": "0.0.1",
+  "description": "Example how to use TypeORM with JavaScript - ES5, ES6, ES7, ESNext.",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "Umed Khudoiberdiev",
+    "email": "pleerock.me@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/typeorm/javascript-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/typeorm/javascript-example/issues"
+  },
+  "tags": [
+    "orm",
+    "javascript-orm",
+    "typeorm-sample",
+    "typeorm-example"
+  ],
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "bootstrap": "^5.1.3",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "mssql": "^6.4.1",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7",
+    "typeorm": "^0.2.0",
+    "vuex": "^4.0.2",
+    "webpack": "^5.73.0"
+  }
+}

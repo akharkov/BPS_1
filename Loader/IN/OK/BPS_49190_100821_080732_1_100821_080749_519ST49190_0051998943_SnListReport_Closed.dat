@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="SNReport.xsl"?>
+<File Created="2021-10-08 08:07:49.000" Version="0.0 ">
+<Machine MachineSN="519ST49190" MachineID="49190" Type="BPS C5">
+<Deposit DepositStatus="Closed" DepositStartDateTime="2021-10-08 08:07:32" DepositEndDateTime="2021-10-08 08:07:47" SegmentFlag="1" PayoutCount="0" DeclaredAmount="0" CustomerID="1" DepositID="0051998943" Currency="RUB" OpModeName="ЮР. ЛИЦА без ветхования" OperatorID="48" SNImageAvailability="2">
+<BN DenomId="1354" Denom="RUB1000c" SNID="КИ0141039" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1466" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="гп3150670" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1467" SNImageID1="" SNImageID2="" />
+<BN DenomId="1338" Denom="RUB1000b" SNID="гО5244544" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1468" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="хв8663881" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1469" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="ВИ0090833" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1470" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="ьс0728556" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1471" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="пи8119265" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1472" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="АБ0300230" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1473" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="БЯ3952213" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="FIT" OCID="" BNId="1474" SNImageID1="" SNImageID2="" />
+<BN DenomId="1338" Denom="RUB1000b" SNID="ьв1279762" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="UNFIT" OCID="" BNId="1475" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="ЧС2273393" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1476" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="эх2985457" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1477" SNImageID1="" SNImageID2="" />
+<BN DenomId="1354" Denom="RUB1000c" SNID="эи6965316" SNLength="9" tStart="2021-10-08 08:07:33.000" QualityID="ATM" OCID="" BNId="1478" SNImageID1="" SNImageID2="" />
+<BN DenomId="1293" Denom="RUB2000d" SNID="АА129457584" SNLength="11" tStart="2021-10-08 08:07:33.000" QualityID="FIT" OCID="" BNId="1480" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="СЯ7507230" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1483" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="БМ4986065" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1484" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="ЛЕ5014896" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1485" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="ВК9424115" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1486" SNImageID1="" SNImageID2="" />
+<BN DenomId="1339" Denom="RUB5000a" SNID="ан2152133" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="FIT" OCID="" BNId="1487" SNImageID1="" SNImageID2="" />
+<BN DenomId="1339" Denom="RUB5000a" SNID="гб3306832" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1488" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="ГН8248470" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1489" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="БО1129988" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1490" SNImageID1="" SNImageID2="" />
+<BN DenomId="1339" Denom="RUB5000a" SNID="бч3112705" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="FIT" OCID="" BNId="1491" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="ИЯ5805268" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="FIT" OCID="" BNId="1492" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="ИЗ2244367" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1493" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="ОА8131850" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1494" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="КТ3992327" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="ATM" OCID="" BNId="1495" SNImageID1="" SNImageID2="" />
+<BN DenomId="1355" Denom="RUB5000c" SNID="ВЛ1565066" SNLength="9" tStart="2021-10-08 08:07:34.000" QualityID="FIT" OCID="" BNId="1496" SNImageID1="" SNImageID2="" />
+<BN DenomId="1293" Denom="RUB2000d" SNID="АА389463296" SNLength="11" tStart="2021-10-08 08:07:41.000" QualityID="UNFIT" OCID="" BNId="1497" SNImageID1="" SNImageID2="" />
+<BN DenomId="1293" Denom="RUB2000d" SNID="АА268865500" SNLength="11" tStart="2021-10-08 08:07:41.000" QualityID="FIT" OCID="" BNId="1498" SNImageID1="" SNImageID2="" />
+<BN DenomId="1293" Denom="RUB2000d" SNID="АА022468440" SNLength="11" tStart="2021-10-08 08:07:41.000" QualityID="UNFIT" OCID="" BNId="1499" SNImageID1="" SNImageID2="" />
+</Deposit>
+</Machine>
+</File>
